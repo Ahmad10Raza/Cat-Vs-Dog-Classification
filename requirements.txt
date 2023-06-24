@@ -1,0 +1,8 @@
+Jupyter notebook
+Tensorflow 
+Python 3.8
+Matplotlib
+Seaborn
+Scikit-Learn
+Pandas
+Numpy
