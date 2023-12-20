@@ -10,6 +10,9 @@
 
 **The accuracy of cat vs dog classification models can vary depending on the dataset used to train the model, the architecture of the model, and the optimization techniques used. However, it is possible to achieve accuracies of over 95% with well-trained models.**
 
+# Output:
+
+![img]()
 
 # **Datasets Information:**
 
@@ -20,5 +23,3 @@
 **Another popular cat and dog dataset is the Cats vs. Dogs dataset: https://www.tensorflow.org/datasets/catalog/cats_vs_dogs from TensorFlow Datasets. This dataset contains over 10,000 images of cats and dogs, which were collected from the internet. The images in this dataset are of higher quality than the images in the Dogs vs. Cats dataset, but they are also more challenging to classify.**
 
 **To evaluate the performance of a machine learning model for image classification, a confusion matrix is often used. A confusion matrix is a table that shows the true positives, true negatives, false positives, and false negatives of a classification model. The true positives are the number of images that were correctly classified as cats or dogs. The true negatives are the number of images that were correctly classified as not cats or dogs. The false positives are the number of images that were incorrectly classified as cats or dogs. The false negatives are the number of images that were incorrectly classified as not cats or dogs.**
-
-Here We are going to use 1st Datasets
